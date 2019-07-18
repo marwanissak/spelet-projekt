@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mittspela", "mittspela\mittspela\mittspela.csproj", "{AFFA11CA-F715-4B6A-81A0-D7301C6F061D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mittspelaContent", "mittspela\mittspelaContent\mittspelaContent.contentproj", "{6ADF5982-EE64-4E27-AF66-6E6B4B10CCB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DC03E26C-4970-49E0-B354-247E28B6B932}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFFA11CA-F715-4B6A-81A0-D7301C6F061D}.Debug|x86.ActiveCfg = Debug|x86
+		{AFFA11CA-F715-4B6A-81A0-D7301C6F061D}.Debug|x86.Build.0 = Debug|x86
+		{AFFA11CA-F715-4B6A-81A0-D7301C6F061D}.Release|x86.ActiveCfg = Release|x86
+		{AFFA11CA-F715-4B6A-81A0-D7301C6F061D}.Release|x86.Build.0 = Release|x86
+		{6ADF5982-EE64-4E27-AF66-6E6B4B10CCB0}.Debug|x86.ActiveCfg = Debug|x86
+		{6ADF5982-EE64-4E27-AF66-6E6B4B10CCB0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
